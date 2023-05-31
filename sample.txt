@@ -2,3 +2,6 @@ This is a sample file created by me to practice git.
 
 
 Changes were done in dev branch123.
+
+
+New changes
